@@ -1,0 +1,10 @@
+.titulo, .lampada {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#turnOn, #turnOff {
+    width: 80px;
+}
+
